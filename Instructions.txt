@@ -1,13 +1,22 @@
 ESP
 
 -Entrar al archivo Config.json y cambia el usuario
--El contador que viene en tu rich presence son los minutos hasta la siguiente actualizacion
+-Ahora tenes que tambien ir a Discord Developer Portal, crear una aplicacion con el nombre Retro MMO y copiamos su APPLICATION ID
+-Tambien es necesario una vez creada la app ir al apartado Rich Presence -> Art Assets y agregar una imagen (la que guarde en la carpeta img) y asegurarse que se llame logo ya que el js lee ese nombre
+-Crear un archivo/modificar el .env en la carpeta donde se encuentra tu app.js y ponerle dentro: "applicationID=[tuid]" sin las comillas ni corchetes
+-Tu applicacionID deberia verse asi: applicationID=123456789012345678
+-Entrar al archivo Config.json y cambiar el usuario
+-Guardar cambios y listo!
 
-// Abri el archivo start.bat
+// Abrir el archivo RetroMMO_RPC.exe
 
 ENG
 
+-First we go to the Discord Developer Portal, create an app with the name of Retro MMO and copy the APPLICATION ID
+-Then we are going to Rich Presence and add an image as a asset (the one in the img folder) and named it logo, js reads that name so is needed to be called like that
+-Create or modify the .env file in the same folder along the app.js and type inside: "applicationID=[yourid]" without the squarebrackets and quotation marks
+-Your applicationID should look something like this: applicationID=123456789012345678
 -Enter the Config.json file and change the username
--The counter that comes in your rich presence are the minutes until the next update
+-Save changes and you are done!
 
-// Open the start.bat file
+// Open the RetroMMO_RPC.exe file
