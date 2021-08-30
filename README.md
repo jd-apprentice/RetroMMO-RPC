@@ -11,6 +11,7 @@ RetroMMO® is created by Evan Norton
 - RPC updates every 5 minutes to match the API
 - Remaining time in the RPC is for knowing when is going to update
 - Below an example of how it works
+- VirusTotal [Scan]
 
 <img src="https://cdn.discordapp.com/attachments/875262629516546089/881755635815968820/unknown.png">
 
@@ -25,9 +26,6 @@ RetroMMO® is created by Evan Norton
 - Name the APP Retro MMO so it shows in your discord activity like that and copy the ID were gonna need it later on
 
 <img src="https://i.imgur.com/CJBvNwL.png">
-
-[DeveloperPortal]: https://discord.com/developers/applications
-[Here]: https://retro-mmo.com/
 
 ### Assets
 
@@ -51,3 +49,7 @@ RetroMMO® is created by Evan Norton
 <img src="https://i.imgur.com/p5uVG6K.png">
 
 - Save changes and we are done! now open the RetroMMO_RPC.exe file
+
+[DeveloperPortal]: https://discord.com/developers/applications
+[Here]: https://retro-mmo.com/
+[Scan]: https://www.virustotal.com/gui/file/e443ad0d972adace6d6e4c59cc88afcc2ed0782c7a6be856e281eb9866b58204/detection
