@@ -1,6 +1,5 @@
 ESP
 
--Entrar al archivo Config.json y cambia el usuario
 -Ahora tenes que tambien ir a Discord Developer Portal, crear una aplicacion con el nombre Retro MMO y copiamos su APPLICATION ID
 -Tambien es necesario una vez creada la app ir al apartado Rich Presence -> Art Assets y agregar una imagen (la que guarde en la carpeta img) y asegurarse que se llame logo ya que el js lee ese nombre
 -Crear un archivo/modificar el .env en la carpeta donde se encuentra tu app.js y ponerle dentro: "applicationID=[tuid]" sin las comillas ni corchetes
