@@ -5,7 +5,7 @@ ESP
 -Crear un archivo/modificar el .env en la carpeta donde se encuentra tu app.js y ponerle dentro: "applicationID=[tuid]" sin las comillas ni corchetes
 -Tu applicacionID deberia verse asi: applicationID=123456789012345678
 -Entrar al archivo Config.json y cambiar el usuario
--Guardar cambios y listo!
+-Ejecuta el archivo start.bat para inicializar el script que crea el .exe
 
 // Abrir el archivo RetroMMO_RPC.exe
 
@@ -16,6 +16,6 @@ ENG
 -Create or modify the .env file in the same folder along the app.js and type inside: "applicationID=[yourid]" without the squarebrackets and quotation marks
 -Your applicationID should look something like this: applicationID=123456789012345678
 -Enter the Config.json file and change the username
--Save changes and you are done!
+-Execute the start.bat file to build the .exe with your config and you are done!
 
 // Open the RetroMMO_RPC.exe file
