@@ -15,6 +15,11 @@ RetroMMO® is created by Evan Norton
 
 <img src="https://cdn.discordapp.com/attachments/875262629516546089/881755635815968820/unknown.png">
 
+### *IMPORTANT* Installing nodejs and pkg
+
+- Nodejs is needed to make the .exe at the end, you can downloaded from their page [Nodejs]
+- Now we are going to need pkg, go to your terminal and type ```npm install -g pkg```
+
 ### Create a Discord APP 🖥️
 
 - Go to [DeveloperPortal]
@@ -57,6 +62,9 @@ RetroMMO® is created by Evan Norton
 <img src="https://i.imgur.com/YQIU8ZC.png">
 <img src="https://i.imgur.com/Mo5JuAy.png">
 
+- now if you are not a user who frecuently uses nodejs you can unistall the package in your terminal typing ```npm uninstall pkg -g``` then unistalling node from your apps like a normal one
+
 [DeveloperPortal]: https://discord.com/developers/applications
 [Here]: https://retro-mmo.com/
 [Scan]: https://www.virustotal.com/gui/file/e443ad0d972adace6d6e4c59cc88afcc2ed0782c7a6be856e281eb9866b58204/detection
+[Nodejs]: https://nodejs.org/en/
