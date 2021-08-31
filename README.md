@@ -48,7 +48,14 @@ RetroMMO® is created by Evan Norton
 
 <img src="https://i.imgur.com/p5uVG6K.png">
 
-- Save changes and we are done! now open the RetroMMO_RPC.exe file
+### Build the .exe
+
+- Now with everything configured we need to build the .exe, run the start.bat file
+- Is going to create 3 files, one for each operating system, windows is the only i've been testing so you can delete the other two
+- app-win.exe is what you have to run now in order to execute the retro mmo rpc, you can change the name/icon at any time
+
+<img src="https://i.imgur.com/YQIU8ZC.png">
+<img src="https://i.imgur.com/Mo5JuAy.png">
 
 [DeveloperPortal]: https://discord.com/developers/applications
 [Here]: https://retro-mmo.com/
